@@ -25,3 +25,4 @@ def sort
   end 
   nu_hash
 end 
+end
